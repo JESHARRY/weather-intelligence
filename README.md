@@ -4,33 +4,22 @@ Weather Intelligence is a visually immersive, production-ready web application t
 
 **Key Features**
 
-Global city search with real-time weather data
-
-“Locate Me” GPS-based weather detection
-
-Live local clock for selected cities with day-phase detection (Morning, Afternoon, Evening, Night)
-
-Dynamic UI theming based on weather conditions and time of day
-
-5-day weather forecast with icons and animations
-
-Weather impact & disaster alerts mapped to current conditions
-
-Dark / Light mode with proper contrast handling
-
-Celsius / Fahrenheit toggle
-
-Fully responsive, mobile-first design
+1. Global city search with real-time weather data
+2. “Locate Me” GPS-based weather detection
+3. Live local clock for selected cities with day-phase detection (Morning, Afternoon, Evening, Night)
+4. Dynamic UI theming based on weather conditions and time of day
+5. 5-day weather forecast with icons and animations
+6. Weather impact & disaster alerts mapped to current conditions
+7. Dark / Light mode with proper contrast handling
+8. Celsius / Fahrenheit toggle
+9. Fully responsive, mobile-first design
 
 **Tech Stack**
 
-HTML5
-
-Modern CSS (Glassmorphism, Gradients, Animations)
-
-Vanilla JavaScript (ES6+)
-
-Open-Meteo API (No API key required)
+1. HTML5
+2. Modern CSS (Glassmorphism, Gradients, Animations)
+3. Vanilla JavaScript (ES6+)
+4. Open-Meteo API (No API key required)
 
 **Why This Project?**
 
